@@ -4,4 +4,9 @@
     <string name="button">button</string>
     <string name="radiobutton">RadioButton</string>
     <string name="checkbox">CheckBox</string>
+    <string name="imgv">imageView</string>
+    <string name="imgb">imageButton</string>
+    <string name="scrollview">ScrollView</string>
+    <string name="spinner">Spinner</string>
+    />
 </resources>
